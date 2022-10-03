@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent.fcpq4-1.fna.fbcdn.net/v/t1.15752-9/300485480_1983894598666399_9214690019765261426_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEAKpeKOmS82uo4bguCMkNkdpaJAmbGJaV2lokCZsYlpVLovoWDo8p7DQONdQrcKNm57OTQlBDMmOHE2wZMuVbc&_nc_ohc=OJNpr9KZOM0AX_C2Jfe&_nc_ht=scontent.fcpq4-1.fna&oh=03_AVKD6LCsl_WGflbQPAx6ByRdbcusX3mMWqptpRrDxyTlVA&oe=6334DC7B">
+<!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent.fcpq4-1.fna.fbcdn.net/v/t1.15752-9/300485480_1983894598666399_9214690019765261426_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEAKpeKOmS82uo4bguCMkNkdpaJAmbGJaV2lokCZsYlpVLovoWDo8p7DQONdQrcKNm57OTQlBDMmOHE2wZMuVbc&_nc_ohc=OJNpr9KZOM0AX_C2Jfe&_nc_ht=scontent.fcpq4-1.fna&oh=03_AVKD6LCsl_WGflbQPAx6ByRdbcusX3mMWqptpRrDxyTlVA&oe=6334DC7B"> -->
 </div>
   
   ##
